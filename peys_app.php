@@ -3,6 +3,10 @@
 <head>
     <title>Peys App</title>
     <style>
+
+        body {
+            font-family: Arial, sans-serif;
+        }
         .photo-container {
             margin-top: 20px;
             text-align: left;
