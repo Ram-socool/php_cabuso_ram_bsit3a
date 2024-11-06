@@ -1,1 +1,7 @@
-# php_cabuso_ram_bsit3a
+DIRECTORY STRUCTRURE
+    PHP
+        VENDO MACHINE
+        PEYS APP
+        STATIC LOGIN
+
+RAM LOGAN CABUSO
